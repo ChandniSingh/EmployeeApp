@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sarve\\source\\repos\\EmployeeApp\\EmployeeApp.csproj": {}
+    "C:\\Users\\sarve\\OneDrive\\Documents\\GitHub\\EmployeeApp\\EmployeeApp\\EmployeeApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sarve\\source\\repos\\EmployeeApp\\EmployeeApp.csproj": {
+    "C:\\Users\\sarve\\OneDrive\\Documents\\GitHub\\EmployeeApp\\EmployeeApp\\EmployeeApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sarve\\source\\repos\\EmployeeApp\\EmployeeApp.csproj",
+        "projectUniqueName": "C:\\Users\\sarve\\OneDrive\\Documents\\GitHub\\EmployeeApp\\EmployeeApp\\EmployeeApp.csproj",
         "projectName": "EmployeeApp",
-        "projectPath": "C:\\Users\\sarve\\source\\repos\\EmployeeApp\\EmployeeApp.csproj",
+        "projectPath": "C:\\Users\\sarve\\OneDrive\\Documents\\GitHub\\EmployeeApp\\EmployeeApp\\EmployeeApp.csproj",
         "packagesPath": "C:\\Users\\sarve\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sarve\\source\\repos\\EmployeeApp\\obj\\",
+        "outputPath": "C:\\Users\\sarve\\OneDrive\\Documents\\GitHub\\EmployeeApp\\EmployeeApp\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [

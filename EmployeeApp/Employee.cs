@@ -14,8 +14,9 @@ namespace EmployeeApp
 
         public static void WriteEmployee(Employee employee)
         {
-            var emplyeeData = $"{employee.Name},{employee.Title}";
-            FileHelper.WriteTextFile(TEXT_FILE_NAME, emplyeeData);
+            var employeeData = $"{employee.Name},{employee.Title}";
+
+            FileHelper.WriteTextFile(TEXT_FILE_NAME, employeeData);
         }
     }
 }
