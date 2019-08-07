@@ -34,6 +34,7 @@ namespace EmployeeApp
                 Name = empName.Text,
                 Title = empTitle.Text
             };
+
             Employee.WriteEmployee(employee);
 
         }
